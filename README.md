@@ -32,8 +32,3 @@ python merkle_certificate_blockchain.py
 - `chain.json` — persistent chain storage
 - `merkle_proof_b{block}_t{tx}.json` — Merkle proof JSON output
 - `chain_export.json` — optional chain export
-
-## Why this is good for assignment
-- Demonstrates core blockchain concepts (PoW) and deeper concepts (Merkle trees & proofs)
-- Single-file, easy to submit and run
-- Produces verifiable artifacts (proof JSON + chain) that examiners can inspect
